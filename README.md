@@ -2,6 +2,7 @@
 <h3 align="center">A passionate fullstack developer Malaysia/Japan/Australia</h3>
 
 <h3 align="left">Connect with me:</h3>
+<a href="https://www.linkedin.com/in/leigh-atkins-0069a731a/">My Linked In</a>
 <p align="left">
 </p>
 
